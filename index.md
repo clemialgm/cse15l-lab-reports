@@ -28,3 +28,4 @@ This is the screenshot of running a certain command.
 By doing so, there is no need to seperate the commands into different steps.
 ![Image](p7.png)
 
+
