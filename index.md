@@ -47,6 +47,7 @@ After login into my account, the directory is formed and the code can be run.
 ![Image](p5.png)
 
 **Setting an SSH Key**
+
 We use the ssh-keygen command to make a public private key pair for ease of login to the remote computer 
 
 ![image](p14.png)
