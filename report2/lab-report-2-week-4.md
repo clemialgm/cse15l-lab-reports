@@ -30,6 +30,10 @@ The code after the first change successfully removes the image, but when we dele
 
 An out of boundary exception will occur when there is a link in the first line of the Markdown file, because the index is 0 while the loop is checking index smaller than -1.
 
+This is fixed by adding another if statement to check if all of the open brackets are at the index which is larger than 0.
+
+If so, all links will be returned. If not, because the open bracket is at index 0, it will skip.
+
 
 
 **Third change**
