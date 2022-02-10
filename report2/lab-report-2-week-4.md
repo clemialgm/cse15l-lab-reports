@@ -50,3 +50,8 @@ output of the terminal
 
 this time all the errrors are fixed and the terminal works well.
 
+To avoid printing out everything including things which are not links, there is a contain statement added.
+
+It is used to check whether it is a link or not by making sure there is no spaces in the parentheses.
+
+If it is a link, it should be returned. If not, it should be skipped.
