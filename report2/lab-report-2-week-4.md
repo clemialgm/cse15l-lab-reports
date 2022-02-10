@@ -54,4 +54,4 @@ To avoid printing out everything including things which are not links, there is 
 
 It is used to check whether it is a link or not by making sure there is no spaces in the parentheses.
 
-If it is a link, it should be returned. If not, it should be skipped. 
+If it is a link, it should be returned. If not, it should be skipped.
