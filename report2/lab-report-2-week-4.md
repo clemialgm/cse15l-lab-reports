@@ -55,7 +55,11 @@ To avoid printing out everything including things which are not links, there is 
 It is used to check whether it is a link or not by making sure there is no spaces in the parentheses.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 If it is a link, it should be returned. If not, it should be skipped. 
 =======
 If it is a link, it should be returned. If not, it should be skipped. 
 >>>>>>> c0b5c18050c3ca1c0dbb74d774a180be1691eb10
+=======
+If it is a link, it should be returned. If not, it should be skipped.
+>>>>>>> 2c8eb1af1b930ac2e1c88cdf953b76bc894e818c
