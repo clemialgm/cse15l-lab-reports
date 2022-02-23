@@ -2,9 +2,9 @@
 
 First, we need to create a config file in "~/.ssh/config" to what is the user name to use.
 
-We use terminal to create the config file
+We use terminal to create the config file, we go to the directory and open the config file
 
-![image](pic6.png)
+![image](pic8.png)
 
 
 I copy and paste the following into my termianal on computer, my computer is MAC
@@ -13,7 +13,7 @@ Host ieng6
     HostName ieng6.ucsd.edu
     User cs15lwi22aer (use your username)
 
-![image](pic7.png)
+![image](pic9.png)
 
 As shown in the picture below, this is the final result shown in my terminal
  ![image](pic1.png)
